@@ -1,8 +1,10 @@
 # is-Prime
 A set of programs that can check if a number (or set of numbers) are prime.
+
 **Contents:**
    prime.py - Checks if one is prime.
    primes for multiple.py - Checks if multiple are prime.
+
 **License:**
 The following license is the license for these products:
  - prime.py
